@@ -6,11 +6,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,400italic">
-        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" type="text/css" href="<?php echo e(asset('css.app.css')); ?>">
+        <link rel="stylesheet" type="text/css" href="<?php echo e(asset('css/app.css')); ?>">
         <!-- Accord Template http://www.templatemo.com/tm-478-accord -->
-        <title>Accord - Free Bootstrap Template</title>
+        <title>Kreasirake</title>
     </head>
     
     <body>
@@ -106,14 +106,14 @@
                                     <div class="banner-main-home">
                                         <div class="banner-main-home-text">
                                             <div class="heading">
-                                                 <h1>ACCORD</h1>
-                                                <p class="text-uppercase">Proin gravida nibhISI</p>
+                                                 <h1>KREASIRAKE</h1>
+                                                <p class="text-uppercase">Kreatif dan menginspirasi</p>
                                             </div>
                                             <div class="desc">
-                                                <p>This is free Bootstrap v3.3.6 website theme brought to you by templatemo.
-                                                    Feel free to use it. Please tell your friends about it. Images are provided
-                                                    by <a rel="nofollow" href="http://unsplash.com" target="_parent">Unsplash</a> (free
-                                                    photo website). Icons are from Smashing Magazine.</p>
+                                                <p> Hay Sobat Kreatif, perkenalkan nama saya rake penulis blog ini, saya seorang <i>technology enthusiast</i> dalam blog ini saya akan
+                                                    banyak membahas tentang kreativitas anak bangsa dari berbagai bidang terutama dalam bidang 
+                                                    teknologi.
+                                                </p>
                                                 <button type="button"
                                                 class="">SAGITIS SELIT</button>
                                             </div>
@@ -239,8 +239,9 @@
         </div>
         <!-- .main-body -->
         <!-- JavaScript -->
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-        <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     </body>
 
 </html><?php /**PATH C:\xampp\htdocs\kreasirake\resources\views/front/index.blade.php ENDPATH**/ ?>
