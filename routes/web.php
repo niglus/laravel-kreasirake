@@ -11,12 +11,11 @@
 |
 */
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return view('welcome');
-});
-Route::get('/front', function () {
-    return view('front.index');
-});
+});*/
+
+Route::get('/', 'PagesController@index');
 
 /*Auth::routes();
 
